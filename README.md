@@ -1,4 +1,4 @@
-# Sorting Visualizer
+# OptiSort: Algorithm Sorting Visualization 
 
 <!-- Table of Contents -->
 <details>
